@@ -1,5 +1,6 @@
 /*
 @萝卜  湘窖俱乐部：积分换酒
+入口：https://raw.githubusercontent.com/lu0b0/Script/main/a70e22bc52fe6475ccdfb1e4192d208.png
 格式  变量名xjjlbtoken  account=xxxxxxx&openId=xxxxxx
 https://club.xiangjiaojiuye.com/xcloud-api/xjcenter/xjpersonalMember/v1/getXjpersonalMemberByCode.json  接口链接。重写也是这个。。。
 
