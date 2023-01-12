@@ -7,7 +7,7 @@
 抓包域名 ：mystore-01api.watsonsvip.com.cn
 export js名+Authorization="Bearer xxxxxxx"
 export js名+unionId="xxxxxxx"
-不清楚变量名运行脚本会提示
+不清楚变量名运行脚本会提示,账号分割支持 换行, @, &
 支持圈X,青龙等。。
 重写：https://mystore-01api.watsonsvip.com.cn/saas-gateway/api/agg-trade/v1/signIn  url script-request-headers https://raw.githubusercontent.com/lu0b0/Script/main/qcs.js
 cron: 5 9 * * *
