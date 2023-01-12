@@ -8,7 +8,7 @@
 export js名+Authorization="Bearer xxxxxxx"
 export js名+unionId="xxxxxxx"
 支持圈X,青龙等。。
-重写：https://mystore-01api.watsonsvip.com.cn/saas-gateway/api/agg-trade/v1/signIn  url script-request-headers 
+重写：https://mystore-01api.watsonsvip.com.cn/saas-gateway/api/agg-trade/v1/signIn  url script-request-headers https://raw.githubusercontent.com/lu0b0/Script/main/qcs.js
 cron: 5 9 * * *
 const $ = new Env("屈臣氏");
 */
