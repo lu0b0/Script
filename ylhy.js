@@ -3,6 +3,8 @@
 入口：微信小程序
 玩法：签到领积分。99积分秒杀实物
 变量：export js名+encryptsessionid="xxxxxxx"
+不清楚变量名运行脚本会提示,账号分割支持 换行, @, &
+支持圈X,青龙等。。
 抓包域名 wx-fulishe.msx.digitalyili.com 下body里的encryptsessionid
 重写：https://wx-fulishe.msx.digitalyili.com/brandwxa/api/vip/getinfo url script-request-body ylhy.js
 cron: 5 9 * * *
