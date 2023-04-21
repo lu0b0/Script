@@ -9,6 +9,13 @@
 
 ”领各种卷，点外卖必备！“
 
+先安装Linux依赖：
+--no-cache
+build-base
+g++
+cairo-dev
+pango-dev
+giflib-dev
 
 NodeJs依赖 依次安装三个依赖：
 MD5@1.3.0 
